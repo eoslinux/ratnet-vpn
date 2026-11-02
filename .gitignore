@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Сборка
+build/
+dist/
+*.spec
+
+# Локальные артефакты
+*.log
+RatnetVPN-portable/
+
+# ОС
+Thumbs.db
+desktop.ini
+.DS_Store
